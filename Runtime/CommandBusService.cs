@@ -41,8 +41,7 @@ namespace com.ktgame.services.command_bus
             return _commandBus.Execute(command, cancellationToken);
         }
 
-        public UniTask<TResponse> Execute<TCommand, TResponse>(TCommand command, CancellationToken cancellationToken = default)
-            where TCommand : ICommand<TResponse>
+        public UniTask<TResponse> Execute<TCommand, TResponse>(TCommand command, CancellationToken cancellationToken = default) where TCommand : ICommand<TResponse>
         {
             return _commandBus.Execute<TCommand, TResponse>(command, cancellationToken);
         }
