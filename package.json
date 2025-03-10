@@ -1,0 +1,20 @@
+{
+  "name": "com.ktgame.services.command-bus",
+  "version": "1.0.0",
+  "displayName": "com.ktgame.services.command-bus",
+  "description": "Command Bus Service",
+  "author": {
+    "name": "ktgame",
+    "email": "khanhquang0912qh@gmail.com",
+    "url": "https://github.com/KhanhTQ-hub"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "com.ktgame.core": "1.0.1",
+    "com.ktgame.command-bus": "1.0.0",
+    "com.ktgame.unitask": "1.0.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "com.ktgame.services.command-bus.editor",
+    "rootNamespace": "com.ktgame.services.command_bus.editor",
+    "references": [
+        "GUID:a9677773d8256fb4ea946e760cbe8eb3",
+        "GUID:de82081b65066ec43bbc4073a387b54d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
