@@ -13,8 +13,8 @@
     "url": ""
   },
   "dependencies": {
-    "com.ktgame.core": "1.0.1",
-    "com.ktgame.command-bus": "1.0.0",
-    "com.ktgame.unitask": "1.0.0"
+    "com.ktgame.core": "1.0.6",
+    "com.ktgame.command-bus": "1.0.1",
+    "com.ktgame.unitask": "1.0.1"
   }
 }

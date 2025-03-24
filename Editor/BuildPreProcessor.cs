@@ -23,7 +23,7 @@ namespace com.ktgame.services.command_bus.editor
 
             if (AssetDatabase.IsValidFolder($"Packages/{PackageName}"))
             {
-                AssetDatabase.CopyAsset($"Packages/{PackageName}/Runtime/link.xml", $"Assets/ktgame/Unimob/Settings/{SettingName}/link.xml");
+                AssetDatabase.CopyAsset($"Packages/{PackageName}/Runtime/link.xml", $"Assets/Plugins/Ktgame/Settings/{SettingName}/link.xml");
             }
         }
     }
