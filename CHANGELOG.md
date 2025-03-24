@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/KhanhTQ-hub/com.ktgame.services.command-bus/compare/v1.0.2...v1.0.3) (2025-03-24)
+
+
+### Bug Fixes
+
+* path + dependency ([4359bd6](https://github.com/KhanhTQ-hub/com.ktgame.services.command-bus/commit/4359bd603a3e302f7a64e89cd250a3f431646f7e))
+
 ## [1.0.2](https://github.com/KhanhTQ-hub/com.ktgame.services.command-bus/compare/v1.0.1...v1.0.2) (2025-03-10)
 
 
